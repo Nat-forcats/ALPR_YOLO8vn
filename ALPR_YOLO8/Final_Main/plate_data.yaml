@@ -1,0 +1,10 @@
+# plate_data.yaml
+path: C:/Users/Tyler/Documents/Schoolwork/IST 691/Final_Main
+train: train/train   
+val: valid           # Pointing directly to the valid folder
+test: test/test      
+
+# Class Configuration
+nc: 1
+names:
+  0: 'license_plate'
